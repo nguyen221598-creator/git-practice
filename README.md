@@ -1,2 +1,3 @@
 "# Git Practice" 
-"Gi?i thi?u: T“i l… <Nguyˆn Di?p Th? H?nh>, MSSV <221598>." 
+"Gi?i thi?u: Tï¿½i lï¿½ <Nguyï¿½n Di?p Th? H?nh>, MSSV <221598>." 
+mani sdfds
